@@ -1,0 +1,6 @@
+bool    is_mqtt
+bool    is_ros_bridge
+bool    is_multimaster
+---
+bool    success
+int32   code

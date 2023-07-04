@@ -1,0 +1,5 @@
+string     job_id
+string     action_id
+---
+bool       success
+int32      error_code

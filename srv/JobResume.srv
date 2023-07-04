@@ -1,0 +1,6 @@
+string    action_id
+float32   delaytime
+int32     trigger_type
+---
+bool      success
+int32     error_code

@@ -1,0 +1,4 @@
+string    job_id
+float32   elapsed_time
+---
+bool      ack
